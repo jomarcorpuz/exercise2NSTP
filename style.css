@@ -1,0 +1,18 @@
+h2{
+	color: blue;
+}
+
+body{
+	background-color: rgb(145,54,99);
+}
+#basketball{
+	height: 150%;
+	width: 200px;
+	float: right;
+}
+#j{
+	float: left;
+}
+ul{
+	margin-top: 20%;
+}
