@@ -9,7 +9,11 @@ body {
 	background: url("deadpool2.png");
     background-size: 1500px 1200px;
     background-repeat: no-repeat;
-	
+li {
+	width: 250px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
 }
 </style>
 
